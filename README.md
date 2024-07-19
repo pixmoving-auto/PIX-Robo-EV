@@ -1,6 +1,8 @@
 # NEV
 ![](https://badgen.net/badge/web/pixmoving/pink?icon=github)
 
+![](https://repobeats.axiom.co/api/embed/55ee65543bb9a0f9c797626c4e66d472a517d17c.svg)
+
 ## Overview
 
 - **Background** &emsp; NEV is a project that encompasses three vehicle models: NEV Lite, NEV, and a sports car. The project aims to provide a range of electric vehicle options to cater to different consumer needs and preferences.
