@@ -56,7 +56,6 @@ We’re excited for you to browse the repo, contribute your insights, and help d
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pixmoving-auto&repo=Livox-SDK2&bg_color=ffffff)](https://github.com/pixmoving-auto/Livox-SDK2)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pixmoving-auto&repo=Livox-SDK2&bg_color=ffffff)](https://github.com/pixmoving-auto/Livox-SDK2)
 
-&nbsp;
 
 # Community & Contributions
 * **Triage** open issues:  replicate the issues reported by others to verify their occurrence and request further information from users if necessary. Identify duplicates, refine descriptions, and assist users seeking assistance.
