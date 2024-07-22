@@ -28,43 +28,29 @@
 
 # Repository Structure
 Our repository is organized into three main sections, each focusing on a different aspect of the NEV project:
-- **NEV-Design:** Contains insights into product styling, AIGC-assisted design workflows, and parametric design methodologies.
-  - Product Styling and Design:
-  - AIGC-Assisted Design Workflow: Exploring AIGC tools like Stable Diffusion, midjourney, and AIGC 3D model generation in the design process.
-  - Parametric Design
-- **NEV-Engineering:** Details the technical aspects of vehicle architecture, including autonomous driving and various vehicle systems.
-  - Autonomous Driving 
-  - Chassis Architecture
-  - Body Architecture
-  - Electrical Architecture
-  - Vehicle Control Unit
-  - Human-Machine Interaction
-  - Network Communication Architecture
-- **NEV-Manufacturing:** Explores innovative manufacturing processes such as RTM, WAAM, and composite materials.
-  - RTM Process
-  - WAAM Process
-  - Composite Materials Process
-**[1.NEV-Design](https://github.com/pixmoving-auto/NEV-Design)** Contains insights into product styling, AIGC-assisted design workflows, and parametric design methodologies.
-  - Product Styling and Design
-  - AIGC-Assisted Design Workflow: Exploring AIGC tools like Stable Diffusion, midjourney, and AIGC 3D model generation in the design process.
-  - Parametric Design
-#### [2.NEV-Engineering](https://github.com/pixmoving-auto/NEV-Engineering) 
-  - Autonomous Driving 
-  - Chassis Architecture
-  - Body Architecture
-  - Electrical Architecture
-  - Vehicle Control Unit
-  - Human-Machine Interaction
-  - Network Communication Architecture
-#### [3.NEV-Manufacturing](https://github.com/pixmoving-auto/NEV-Manufacturing)
-Explores innovative manufacturing processes such as RTM, WAAM, and composite materials.
-  - RTM Process
-  - WAAM Process
-  - Composite Materials Process
+## [NEV-Design](https://github.com/pixmoving-auto/NEV-Design)
+This section offers in-depth exploration into the aesthetic and functional aspects of product design, leveraging advanced design workflows and methodologies.
+- **Product Styling and Design**: Detailed insights into the appearance design, along with comprehensive models and documentation for NEV Lite, NEV, and super sports cars.
+- **AIGC-Assisted Design Workflow**: A deep dive into the application of cutting-edge AIGC tools, such as Stable Diffusion, midjourney, and 3D model generation, within the design process.
+- **Parametric Design**: A focus on parametric design techniques using tools like Rhino and Grasshopper, or programming-based methods, to streamline the design workflow and enhance creative outcomes.
+## [NEV-Engineering](https://github.com/pixmoving-auto/NEV-Engineering)
+Dive into the technical intricacies of vehicle engineering, covering a range of architectural and interactive systems.
+- **Autonomous Driving**: Explore the advancements in self-driving technologies and their integration into the vehicle architecture.
+- **Chassis Architecture**: Detailed examination of the chassis design, focusing on structure, performance, and safety.
+- **Body Architecture**: Insights into the design and engineering of the vehicle's body, including materials and manufacturing considerations.
+- **Electrical Architecture**: Understanding the complex electrical systems that power modern vehicles.
+- **Vehicle Control Unit**: Overview of the vehicle's central control unit and its role in managing various vehicle operations.
+- **Human-Machine Interaction**: Discussing the interfaces and technologies that facilitate interaction between the driver and the vehicle.
+- **Network Communication Architecture**: A look at the network systems that enable data communication across the vehicle's various components.
+## [NEV-Manufacturing](https://github.com/pixmoving-auto/NEV-Manufacturing)
+Discover the cutting-edge manufacturing processes that are shaping the future of automotive production, with a focus on efficiency and innovation.
+- **RTM Process**: In-depth look at the Resin Transfer Molding process, its benefits, and applications in vehicle manufacturing.
+- **WAAM Process**: Exploring Wire and Arc Additive Manufacturing, a revolutionary technique in metal fabrication.
+- **Composite Materials Process**: Insights into the use of advanced composite materials and the processes that enhance their performance in automotive manufacturing.
 
 We’re excited for you to browse the repo, contribute your insights, and help drive the future of NEV tech. Fork the repo, star your favorites, and let’s build something amazing together!
 
-#### Pinned
+## Pinned
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pixmoving-auto&repo=Livox-SDK2&bg_color=ffffff)](https://github.com/pixmoving-auto/Livox-SDK2)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pixmoving-auto&repo=Livox-SDK2&bg_color=ffffff)](https://github.com/pixmoving-auto/Livox-SDK2)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pixmoving-auto&repo=Livox-SDK2&bg_color=ffffff)](https://github.com/pixmoving-auto/Livox-SDK2)
@@ -73,8 +59,13 @@ We’re excited for you to browse the repo, contribute your insights, and help d
 &nbsp;
 
 # Community & Contributions
-### Co-creation Guide
-### Code Conventions
-### Community Code of Conduct
+* **Triage** open issues:  replicate the issues reported by others to verify their occurrence and request further information from users if necessary. Identify duplicates, refine descriptions, and assist users seeking assistance.
+* **Submit** fixes and implementations: choose an open issue or feature request that you're capable of tackling, and present a pull request with your completed implementation.
+* **Test** open pull requests: attempt to execute the suggested changes and provide feedback on the results. The process of testing on actual hardware can be lengthy, and any assistance will expedite our integration of contributions.
+* **Help others** contribute by offering code reviews and recommending effective strategies for implementing fixes and features.
+* **Write documentation** and improve the existing content.
+  
+At PIX, we're a team of geeks 🤓 from various fields like engineering, design, architecture, and computer science. We actively interact with the broader PIX Community on our discussion forum, so come join us! 😊 We value contributions and reward our most active contributors with public recognition, maintainer status, and hardware goodies.
 
-## License
+# License
+Unless otherwise described, the code in this repository is licensed under the GNU GPL v3.0 License (GNU General Public License version 3.0). Please note that some modules, extensions or code herein might be otherwise licensed. This is indicated either in the root of the containing folder under a different license file, or in the respective file's header. If you have any questions, don't hesitate to get in touch with us via email.
