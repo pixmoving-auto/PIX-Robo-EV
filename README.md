@@ -1,4 +1,6 @@
-# NEV![](https://badgen.net/badge/web/pixmoving/pink?icon=github)
+# NEV
+
+![](https://badgen.net/badge/web/pixmoving/pink?icon=github)
 
 ## Overview
 
@@ -8,24 +10,26 @@
 
 - **Purpose** &emsp; The GitHub repository is designed to serve both users and engineers, offering a platform for the public to stay informed about the latest project developments and engineering details in real-time. It also extends an invitation to passionate geek designers and engineers to join the project and contribute to its growth and innovation.
 
-## Repori
-It is divided into three sections: design, engineering, and manufacturing.
+## Features
 
-![](https://github-readme-stats.vercel.app/api/pin/?username=pixmoving-auto&repo=godot_rviz2)
-![](https://github-readme-stats.vercel.app/api/pin/?username=pixmoving-auto&repo=godot_rviz2)
-![](https://github-readme-stats.vercel.app/api/pin/?username=pixmoving-auto&repo=godot_rviz2)
-![]https://github-readme-stats.vercel.app/api/pin/?username=用户名&repo=仓库名
+Welcome to the NEV project repository! 🚗✨ We’ve curated three essential directories for your exploration: design/, engineering/, and manufacturing/.
 
-#### NEV-Design
-You can learn about product appearance, AIGC-assisted design process, parametric design, and more. (Textual description + repository link)
+- [NEV-Design](https://github.com/pixmoving-auto/NEV-Design): Jump in to learn about product styling, harness AIGC in your design workflow, and dive into the world of parametric design. There’s more to uncover in our design treasure trove.
 
-#### NEV-Engineering
-You can understand the overall vehicle engineering architecture, electrification architecture, and autonomous driving capabilities. (Textual description + repository link)
+- [NEV-Engineering](https://github.com/pixmoving-auto/NEV-Design): Dig into the nitty-gritty of vehicle architecture, explore electrification systems, and get to grips with autonomous driving tech. All your engineering insights, just a click away.
 
-#### NEV-Manufacturing
-You can learn about innovative processes, moldless manufacturing, and flexible manufacturing. (Textual description + repository link)
+- [NEV-Manufacturing](https://github.com/pixmoving-auto/NEV-Design): Discover the future of production with our section on innovative processes. From moldless manufacturing to flexible systems, find it all here.
 
-## Contribution
+We’re excited for you to browse the repo, contribute your insights, and help drive the future of NEV tech. Fork the repo, star your favorites, and let’s build something amazing together!
+
+## Pinned
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pixmoving-auto&repo=Livox-SDK2&bg_color=ffffff)](https://github.com/pixmoving-auto/Livox-SDK2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pixmoving-auto&repo=Livox-SDK2&bg_color=ffffff)](https://github.com/pixmoving-auto/Livox-SDK2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pixmoving-auto&repo=Livox-SDK2&bg_color=ffffff)](https://github.com/pixmoving-auto/Livox-SDK2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pixmoving-auto&repo=Livox-SDK2&bg_color=ffffff)](https://github.com/pixmoving-auto/Livox-SDK2)
+
+
+## Contributing
 ### Co-creation Guide
 ### Code Conventions
 ### Community Code of Conduct
