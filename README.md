@@ -1,7 +1,4 @@
-# NEV
-![](https://badgen.net/badge/web/pixmoving/pink?icon=github)
-
-![](https://repobeats.axiom.co/api/embed/55ee65543bb9a0f9c797626c4e66d472a517d17c.svg)
+# NEV![](https://badgen.net/badge/web/pixmoving/pink?icon=github)
 
 ## Overview
 
@@ -13,6 +10,11 @@
 
 ## Repori
 It is divided into three sections: design, engineering, and manufacturing.
+
+![](https://github-readme-stats.vercel.app/api/pin/?username=pixmoving-auto&repo=godot_rviz2)
+![](https://github-readme-stats.vercel.app/api/pin/?username=pixmoving-auto&repo=godot_rviz2)
+![](https://github-readme-stats.vercel.app/api/pin/?username=pixmoving-auto&repo=godot_rviz2)
+![]https://github-readme-stats.vercel.app/api/pin/?username=用户名&repo=仓库名
 
 #### NEV-Design
 You can learn about product appearance, AIGC-assisted design process, parametric design, and more. (Textual description + repository link)
