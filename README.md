@@ -7,10 +7,18 @@
 </h1>
 
 <p align="center">
-  <a href="https://twitter.com/SpeckleSystems"><img src="https://img.shields.io/twitter/follow/SpeckleSystems?style=social" alt="Twitter Follow"></a> 
+  <a href="https://www.pixmoving.com/"><img src="https://img.shields.io/badge/https://-pixmoving-royalblue?style=flat-square" alt="Website"></a>
+  <a href="https://www.instagram.com/pix_roboev"><img src="https://img.shields.io/badge/instagram-PIXRoboev-00C300?style=flat-square&amp;logo=Instagram&amp;logoColor=white" alt="Instagram Follow">
+  <a href="https://discord.com/invite/pix-roboev"><img src="https://img.shields.io/badge/discord-PIXRoboev-5865F2?style=flat-square&amp;logo=Discord&amp;logoColor=white" alt="Website"></a>
+  <a href="https://www.youtube.com/@PIX_Roboev_officia"><img src="https://img.shields.io/badge/youtube-PIXRoboev-FF0000?style=flat-square&amp;logo=youtube&amp;logoColor=white" alt="YouTube Channel"></a>
+</p>
+
+
+<p align="center">
+<!--   <a href="https://twitter.com/SpeckleSystems"><img src="https://img.shields.io/twitter/follow/SpeckleSystems?style=social" alt="Twitter Follow"></a> 
   <a href="https://speckle.community"><img src="https://img.shields.io/discourse/users?server=https%3A%2F%2Fspeckle.community&amp;style=flat-square&amp;logo=discourse&amp;logoColor=white" alt="Community forum users"></a>
   <a href="https://www.pixmoving.com/"><img src="https://img.shields.io/badge/https://-pixmoving-royalblue?style=flat-square" alt="website"></a>
-  <a href="https://speckle.guide/dev/"><img src="https://img.shields.io/badge/docs-speckle.guide-orange?style=flat-square&amp;logo=read-the-docs&amp;logoColor=white" alt="docs"></a>
+  <a href="https://speckle.guide/dev/"><img src="https://img.shields.io/badge/docs-speckle.guide-orange?style=flat-square&amp;logo=read-the-docs&amp;logoColor=white" alt="docs"></a> -->
 </p>
 
 &nbsp;
