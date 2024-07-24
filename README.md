@@ -29,7 +29,7 @@
 At PIX, our Robo-EV project is on a mission to redefine the automotive panorama. We are committed to developing revolutionary technology for this sector. Utilizing AI and novel methods in design, engineering, and manufacturing, our aim is to ignite a design revolution. The Robo-EV is not merely a vehicle; it serves as a symbol of progress and offers a glimpse into the future of transportation.
 - **Product Lineup🌟**
 The Robo-EV project encompasses a suite of three vehicle models: `Robo-EV`, `Robo-EV Lite`, and the `Robo-EV S`. Our initiative strives to offer a diverse array of electric vehicle options, catering to the varied needs and preferences of consumers.
-- **Repository Purpose🛠️**
+- **Repo Purpose🛠️**
 Our cross-disciplinary team of experts – engineers, designers, and scientists – is united in the pursuit of innovation. This GitHub repository is  designed to serve as a dynamic platform for both designers and engineers. It provides real-time updates on the latest project developments and engineering insights. Additionally, it extends an open invitation to all passionate geek designers and engineers to contribute to the project. Fork the repository, collaborate with us, and help drive innovation in this project.
 
 &nbsp;
@@ -37,24 +37,25 @@ Our cross-disciplinary team of experts – engineers, designers, and scientists 
 # Repository Structure
 Our repository is organized into three main sections, each focusing on a different aspect of the Robo-EV project:
 ## [Design](https://github.com/pixmoving-auto/NEV/blob/main/Design/README.md)
-This section offers in-depth exploration into the aesthetic and functional aspects of product design, leveraging advanced design workflows and methodologies.
+This section offers an in-depth exploration of the aesthetic and functional facets of product design by leveraging advanced design workflows and methodologies.
 - **Product Styling and Design**: Detailed insights into the appearance design, along with comprehensive models and documentation for `Robo-EV`, `Robo-EV Lite`, and the `Robo-EV S`.
-- **AIGC-Assisted Design Workflow**: A deep dive into the application of cutting-edge AIGC tools, such as Stable Diffusion, midjourney, and 3D model generation, within the design process.
+- **AIGC-Assisted Design Workflow**: A deep dive into the application of cutting-edge AIGC tools, such as Stable Diffusion, midjourney, and AI 3D model generation, within the design process.
 - **Parametric Design**: A focus on parametric design techniques using tools like Rhino and Grasshopper, or programming-based methods, to streamline the design workflow and enhance creative outcomes.
 ## [Engineering](https://github.com/pixmoving-auto/NEV/blob/main/Engineering/README.md)
-Dive into the technical intricacies of vehicle engineering, covering a range of architectural and interactive systems.
-- **Autonomous Driving**: Explore the advancements in self-driving technologies and their integration into the vehicle architecture.
-- **Chassis Architecture**: Detailed examination of the chassis design, focusing on structure, performance, and safety.
-- **Body Architecture**: Insights into the design and engineering of the vehicle's body, including materials and manufacturing considerations.
-- **Electrical Architecture**: Understanding the complex electrical systems that power modern vehicles.
-- **Vehicle Control Unit**: Overview of the vehicle's central control unit and its role in managing various vehicle operations.
-- **Human-Machine Interaction**: Discussing the interfaces and technologies that facilitate interaction between the driver and the vehicle.
-- **Network Communication Architecture**: A look at the network systems that enable data communication across the vehicle's various components.
+This section is dedicated to providing technical insights and information related to the automotive engineering architecture.
+**Autonomous Driving**: This section provides an in-depth look at the latest developments in self-driving technologies and their incorporation into the vehicle's architecture.
+- **Chassis Architecture**: Access detailed documentation on the design of the chassis, with a focus on its structure, performance attributes, and safety features.
+- **Body Architecture**: Find comprehensive insights into the design and engineering of the vehicle's body, including discussions on materials used and manufacturing processes.
+- **Electrical Architecture**: Gain a thorough understanding of the intricate electrical systems that drive modern vehicles, with detailed explanations and technical data.
+- **Vehicle Control Unit**: The section offers a detailed overview of the vehicle's central control unit, explaining its function in coordinating various vehicle operations.
+- **Human-Machine Interaction**: Here, you will find information on the interfaces and technologies that improve the interaction between drivers and their vehicles.
+- **Network Communication Architecture**: Explore the documentation on the network systems that facilitate efficient data communication across the different components of the vehicle.
+- **Additional Engineering Insights**: Discover any other engineering information and details that might pique your interest, offering a broader understanding of the project's technical aspects.
 ## [Manufacturing](https://github.com/pixmoving-auto/NEV/tree/main/Manufacturing)
-Discover the cutting-edge manufacturing processes that are shaping the future of automotive production, with a focus on efficiency and innovation.
-- **RTM Process**: In-depth look at the Resin Transfer Molding process, its benefits, and applications in vehicle manufacturing.
-- **WAAM Process**: Exploring Wire and Arc Additive Manufacturing, a revolutionary technique in metal fabrication.
-- **Composite Materials Process**: Insights into the use of advanced composite materials and the processes that enhance their performance in automotive manufacturing.
+Dive into the disclosure and presentation of RTM and moldless technologies, pivotal to the advancement of automotive manufacturing processes, where efficiency and innovation define the future of production.
+- **Double-Sided Incremental Forming (DSIF)**: Uncover the intricacies of the DSIF process, exploring its innovative applications within the automotive industry, particularly in the crafting of interior and exterior trim components, which exemplify precision and design flexibility.
+- **WAAM Process**: Investigate the Wire and Arc Additive Manufacturing process, a transformative approach in metal fabrication that is redefining the possibilities of precision engineering and rapid prototyping.
+- **Composite Materials oriented Process**: Gain a deeper understanding of how advanced composite materials are leveraged in automotive manufacturing, and discover the sophisticated processes that optimize their performance, driving the industry towards lighter, stronger, and more sustainable vehicles.
 
 We’re excited for you to browse the repo, contribute your insights, and help drive the future of Robo-EV tech. Fork the repo, star your favorites, and let’s build something amazing together!
 
