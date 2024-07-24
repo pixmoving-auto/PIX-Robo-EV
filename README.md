@@ -25,11 +25,11 @@
 
 ## 🤗 Welcome to the Robo-EV project repository! 
 
-- **Visions🌟**
+- **Project Visions🌟**
 At PIX, our Robo-EV project is on a mission to redefine the automotive panorama. We are committed to developing revolutionary technology for this sector. Utilizing AI and novel methods in design, engineering, and manufacturing, our aim is to ignite a design revolution. The Robo-EV is not merely a vehicle; it serves as a symbol of progress and offers a glimpse into the future of transportation.
-- **Overview🚗**
+- **Product Lineup🚗**
 The Robo-EV project encompasses a suite of three vehicle models: `Robo-EV`, `Robo-EV Lite`, and the `Robo-EV S`. Our initiative strives to offer a diverse array of electric vehicle options, catering to the varied needs and preferences of consumers.
-- **Purpose🛠️**
+- **Repo Purpose🛠️**
 Our cross-disciplinary team of experts – engineers, designers, and scientists – is united in the pursuit of innovation. This GitHub repository is  designed to serve as a dynamic platform for both designers and engineers. It provides real-time updates on the latest project developments and engineering insights. Additionally, it extends an open invitation to all passionate geek designers and engineers to contribute to the project. Fork the repository, collaborate with us, and help drive innovation in this project.
 
 &nbsp;
