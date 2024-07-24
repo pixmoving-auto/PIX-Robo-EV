@@ -1,6 +1,5 @@
 ![lQLPKHSzTLq4uR_NBaDNCgCwdn-9JvmReywGinarzpZgAA_2560_1440](https://github.com/user-attachments/assets/e7522222-81c7-4364-863c-d2e1b0ef138c)
 
-
 &nbsp;
 
 <h1 align="center">
@@ -13,7 +12,6 @@
   <a href="https://www.youtube.com/@PIX_Roboev_officia"><img src="https://img.shields.io/badge/YouTube-Robo--EV-FF0000?style=flat-square&amp;logo=youtube&amp;logoColor=white" alt="YouTube Channel"></a>
   <a href="https://www.pixmoving.com/"><img src="https://img.shields.io/badge/https://-PIXMOVING-FFFC00?style=flat-square" alt="Website"></a>
 </p>
-
 
 <p align="center">
 <!--   <a href="https://twitter.com/SpeckleSystems"><img src="https://img.shields.io/twitter/follow/SpeckleSystems?style=social" alt="Twitter Follow"></a> 
@@ -62,7 +60,6 @@ We’re excited for you to browse the repo, contribute your insights, and help d
 
 ## Pinned
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pixmoving-moveit&repo=Autoware&bg_color=ffffff)](https://github.com/pixmoving-moveit/Autoware)
-
 
 # Community & Contributions
 * **Triage** open issues:  replicate the issues reported by others to verify their occurrence and request further information from users if necessary. Identify duplicates, refine descriptions, and assist users seeking assistance.
