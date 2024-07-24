@@ -60,10 +60,7 @@ Dive into the disclosure and presentation of RTM and moldless technologies, pivo
 We’re excited for you to browse the repo, contribute your insights, and help drive the future of Robo-EV tech. Fork the repo, star your favorites, and let’s build something amazing together!
 
 ## Pinned
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pixmoving-auto&repo=Livox-SDK2&bg_color=ffffff)](https://github.com/pixmoving-auto/Livox-SDK2)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pixmoving-auto&repo=Livox-SDK2&bg_color=ffffff)](https://github.com/pixmoving-auto/Livox-SDK2)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pixmoving-auto&repo=Livox-SDK2&bg_color=ffffff)](https://github.com/pixmoving-auto/Livox-SDK2)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pixmoving-auto&repo=Livox-SDK2&bg_color=ffffff)](https://github.com/pixmoving-auto/Livox-SDK2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pixmoving-moveit&repo=Autoware&bg_color=ffffff)](https://github.com/pixmoving-moveit/Autoware)
 
 
 # Community & Contributions
