@@ -7,10 +7,10 @@
 </h1>
 
 <p align="center">
-  <a href="https://www.pixmoving.com/"><img src="https://img.shields.io/badge/https://-pixmoving-royalblue?style=flat-square" alt="Website"></a>
-  <a href="https://www.instagram.com/pix_roboev"><img src="https://img.shields.io/badge/instagram-PIXRoboev-00C300?style=flat-square&amp;logo=Instagram&amp;logoColor=white" alt="Instagram Follow">
-  <a href="https://discord.com/invite/pix-roboev"><img src="https://img.shields.io/badge/discord-PIXRoboev-5865F2?style=flat-square&amp;logo=Discord&amp;logoColor=white" alt="Website"></a>
-  <a href="https://www.youtube.com/@PIX_Roboev_officia"><img src="https://img.shields.io/badge/youtube-PIXRoboev-FF0000?style=flat-square&amp;logo=youtube&amp;logoColor=white" alt="YouTube Channel"></a>
+  <a href="https://www.instagram.com/pix_roboev"><img src="https://img.shields.io/badge/Instagram-PIXRoboev-00C300?style=flat-square&amp;logo=Instagram&amp;logoColor=white" alt="Instagram Follow">
+  <a href="https://discord.com/invite/pix-roboev"><img src="https://img.shields.io/badge/Discord-PIXRoboev-royalblue?style=flat-square&amp;logo=Discord&amp;logoColor=white" alt="Website"></a>
+  <a href="https://www.youtube.com/@PIX_Roboev_officia"><img src="https://img.shields.io/badge/YouTube-PIXRoboev-FF0000?style=flat-square&amp;logo=youtube&amp;logoColor=white" alt="YouTube Channel"></a>
+  <a href="https://www.pixmoving.com/"><img src="https://img.shields.io/badge/https://-PIXMOVING-FFFC00?style=flat-square" alt="Website"></a>
 </p>
 
 
