@@ -1,15 +1,15 @@
-![Dingtalk_20240722130759](https://github.com/user-attachments/assets/e4e56fe6-940e-48b4-9140-aa521c743542)
+![lQLPKdPFv0DU0N_NBaDNCgCwJg6F1VPwil8GincXOFsHAA_2560_1440](https://github.com/user-attachments/assets/120a9966-60ad-4fe1-ba68-5acafbd5ade1)
 
 &nbsp;
 
 <h1 align="center">
-  NEV - PIX RoboEV Developer
+  PIX Robo-EV
 </h1>
 
 <p align="center">
-  <a href="https://www.instagram.com/pix_roboev"><img src="https://img.shields.io/badge/Instagram-PIXRoboev-00C300?style=flat-square&amp;logo=Instagram&amp;logoColor=white" alt="Instagram Follow">
-  <a href="https://discord.com/invite/pix-roboev"><img src="https://img.shields.io/badge/Discord-PIXRoboev-royalblue?style=flat-square&amp;logo=Discord&amp;logoColor=white" alt="Website"></a>
-  <a href="https://www.youtube.com/@PIX_Roboev_officia"><img src="https://img.shields.io/badge/YouTube-PIXRoboev-FF0000?style=flat-square&amp;logo=youtube&amp;logoColor=white" alt="YouTube Channel"></a>
+  <a href="https://www.instagram.com/pix_roboev"><img src="https://img.shields.io/badge/Instagram-Robo--EV-00C300?style=flat-square&amp;logo=Instagram&amp;logoColor=white" alt="Instagram Follow">
+  <a href="https://discord.com/invite/pix-roboev"><img src="https://img.shields.io/badge/Discord-Robo--EV-royalblue?style=flat-square&amp;logo=Discord&amp;logoColor=white" alt="Website"></a>
+  <a href="https://www.youtube.com/@PIX_Roboev_officia"><img src="https://img.shields.io/badge/YouTube-Robo--EV-FF0000?style=flat-square&amp;logo=youtube&amp;logoColor=white" alt="YouTube Channel"></a>
   <a href="https://www.pixmoving.com/"><img src="https://img.shields.io/badge/https://-PIXMOVING-FFFC00?style=flat-square" alt="Website"></a>
 </p>
 
@@ -23,25 +23,25 @@
 
 &nbsp;
 
-## 🤗 Welcome to the NEV project repository! 
+## 🤗 Welcome to the Robo-EV project repository! 
 
-- **Project Overview🚗**
-  The NEV project encompasses a suite of three vehicle models: `NEV Lite`, `NEV`, and the `Supercar`. Our initiative strives to offer a diverse array of electric vehicle options, catering to the varied needs and preferences of consumers.
-- **Procect Visions🌟**
-  The NEV project launched with a clear vision and has since achieved several key milestones, including XXX. We are looking forward to a significant pre-sale event, scheduled for a future date, marking another step in our phased development plan.
-- **Repository Purpose🛠️**
-  This GitHub repository is  designed to serve as a dynamic platform for both users and engineers. It provides real-time updates on the latest project developments and engineering insights. Additionally, it extends an open invitation to all passionate geek designers and engineers to contribute to the project. Fork the repository, collaborate with us, and help drive innovation in the NEV project.
+- **Visions🌟**
+At PIX, our Robo-EV project is on a mission to redefine the automotive panorama. We are committed to developing revolutionary technology for this sector. Utilizing AI and novel methods in design, engineering, and manufacturing, our aim is to ignite a design revolution. The Robo-EV is not merely a vehicle; it serves as a symbol of progress and offers a glimpse into the future of transportation.
+- **Overview🚗**
+The Robo-EV project encompasses a suite of three vehicle models: `Robo-EV`, `Robo-EV Lite`, and the `Robo-EV S`. Our initiative strives to offer a diverse array of electric vehicle options, catering to the varied needs and preferences of consumers.
+- **Purpose🛠️**
+Our cross-disciplinary team of experts – engineers, designers, and scientists – is united in the pursuit of innovation. This GitHub repository is  designed to serve as a dynamic platform for both designers and engineers. It provides real-time updates on the latest project developments and engineering insights. Additionally, it extends an open invitation to all passionate geek designers and engineers to contribute to the project. Fork the repository, collaborate with us, and help drive innovation in this project.
 
 &nbsp;
 
 # Repository Structure
-Our repository is organized into three main sections, each focusing on a different aspect of the NEV project:
-## [NEV-Design](https://github.com/pixmoving-auto/NEV-Design)
+Our repository is organized into three main sections, each focusing on a different aspect of the Robo-EV project:
+## [Design](https://github.com/pixmoving-auto/NEV-Design)
 This section offers in-depth exploration into the aesthetic and functional aspects of product design, leveraging advanced design workflows and methodologies.
-- **Product Styling and Design**: Detailed insights into the appearance design, along with comprehensive models and documentation for NEV Lite, NEV, and super sports cars.
+- **Product Styling and Design**: Detailed insights into the appearance design, along with comprehensive models and documentation for `Robo-EV`, `Robo-EV Lite`, and the `Robo-EV S`.
 - **AIGC-Assisted Design Workflow**: A deep dive into the application of cutting-edge AIGC tools, such as Stable Diffusion, midjourney, and 3D model generation, within the design process.
 - **Parametric Design**: A focus on parametric design techniques using tools like Rhino and Grasshopper, or programming-based methods, to streamline the design workflow and enhance creative outcomes.
-## [NEV-Engineering](https://github.com/pixmoving-auto/NEV-Engineering)
+## [Engineering](https://github.com/pixmoving-auto/NEV-Engineering)
 Dive into the technical intricacies of vehicle engineering, covering a range of architectural and interactive systems.
 - **Autonomous Driving**: Explore the advancements in self-driving technologies and their integration into the vehicle architecture.
 - **Chassis Architecture**: Detailed examination of the chassis design, focusing on structure, performance, and safety.
@@ -50,13 +50,13 @@ Dive into the technical intricacies of vehicle engineering, covering a range of 
 - **Vehicle Control Unit**: Overview of the vehicle's central control unit and its role in managing various vehicle operations.
 - **Human-Machine Interaction**: Discussing the interfaces and technologies that facilitate interaction between the driver and the vehicle.
 - **Network Communication Architecture**: A look at the network systems that enable data communication across the vehicle's various components.
-## [NEV-Manufacturing](https://github.com/pixmoving-auto/NEV-Manufacturing)
+## [Manufacturing](https://github.com/pixmoving-auto/NEV-Manufacturing)
 Discover the cutting-edge manufacturing processes that are shaping the future of automotive production, with a focus on efficiency and innovation.
 - **RTM Process**: In-depth look at the Resin Transfer Molding process, its benefits, and applications in vehicle manufacturing.
 - **WAAM Process**: Exploring Wire and Arc Additive Manufacturing, a revolutionary technique in metal fabrication.
 - **Composite Materials Process**: Insights into the use of advanced composite materials and the processes that enhance their performance in automotive manufacturing.
 
-We’re excited for you to browse the repo, contribute your insights, and help drive the future of NEV tech. Fork the repo, star your favorites, and let’s build something amazing together!
+We’re excited for you to browse the repo, contribute your insights, and help drive the future of Robo-EV tech. Fork the repo, star your favorites, and let’s build something amazing together!
 
 ## Pinned
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pixmoving-auto&repo=Livox-SDK2&bg_color=ffffff)](https://github.com/pixmoving-auto/Livox-SDK2)
