@@ -1,3 +1,6 @@
+![PIX 智能汽车开发平台 Vehicle Platform Design——Ultra-Skateboard™](https://github.com/user-attachments/assets/5b9f212f-2a07-406a-9ca7-9661b96b31b7)
+
+
 # Engineering
 
 This section is dedicated to providing technical insights and information related to the automotive engineering architecture.
