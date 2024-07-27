@@ -1,7 +1,5 @@
 ![v2_5c4294c6314e42a8b1d3d7ba75f3baa3_img_png](https://github.com/user-attachments/assets/d2aeb985-ec9f-40b2-8221-831c26f23790)
 
-
-
 &nbsp;
 
 <h1 align="center">
@@ -23,7 +21,6 @@
 </p>
 
 &nbsp;
-
 ## 🤗 Welcome to the Robo-EV project repository! 
 
 - **Project Overview🚗**
