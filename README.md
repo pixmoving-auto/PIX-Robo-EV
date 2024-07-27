@@ -1,4 +1,4 @@
-![lQLPKHSzTLq4uR_NBaDNCgCwdn-9JvmReywGinarzpZgAA_2560_1440](https://github.com/user-attachments/assets/e7522222-81c7-4364-863c-d2e1b0ef138c)
+![How PIX Moving is Using Self-Driving Skateboard Chassis to Build the City of the Future](https://github.com/user-attachments/assets/2bd8a085-1b46-4419-92dc-237ccf3cf90f)
 
 &nbsp;
 
