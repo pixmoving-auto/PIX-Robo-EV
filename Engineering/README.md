@@ -1,5 +1,4 @@
-![9958e5131731851 619cde1c2e392](https://github.com/user-attachments/assets/7faf59ba-2722-4d77-8f52-489f9145a2dd)
-
+![NEV01_00005](https://github.com/user-attachments/assets/6a7819ec-85b6-450b-9f10-2fe645057e89)
 
 # Engineering
 
