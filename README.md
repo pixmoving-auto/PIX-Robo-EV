@@ -1,4 +1,4 @@
-![How PIX Moving is Using Self-Driving Skateboard Chassis to Build the City of the Future](https://github.com/user-attachments/assets/2bd8a085-1b46-4419-92dc-237ccf3cf90f)
+![img1](https://github.com/user-attachments/assets/105eeb43-ebff-425a-805e-36a525180cb1)
 
 &nbsp;
 
