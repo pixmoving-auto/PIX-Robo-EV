@@ -1,4 +1,4 @@
-![PIX 智能汽车开发平台 Vehicle Platform Design——Ultra-Skateboard™](https://github.com/user-attachments/assets/5b9f212f-2a07-406a-9ca7-9661b96b31b7)
+![9958e5131731851 619cde1c2e392](https://github.com/user-attachments/assets/7faf59ba-2722-4d77-8f52-489f9145a2dd)
 
 
 # Engineering
