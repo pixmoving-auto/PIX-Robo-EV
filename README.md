@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://www.instagram.com/pix_roboev"><img src="https://img.shields.io/badge/Instagram-Robo--EV-00C300?style=flat-square&amp;logo=Instagram&amp;logoColor=white" alt="Instagram Follow">
   <a href="https://discord.com/invite/pix-roboev"><img src="https://img.shields.io/badge/Discord-Robo--EV-royalblue?style=flat-square&amp;logo=Discord&amp;logoColor=white" alt="Website"></a>
-  <a href="https://www.youtube.com/@PIX_Roboev_officia"><img src="https://img.shields.io/badge/YouTube-Robo--EV-FF0000?style=flat-square&amp;logo=youtube&amp;logoColor=white" alt="YouTube Channel"></a>
+  <a href="https://www.youtube.com/@PIX_Roboev_official"><img src="https://img.shields.io/badge/YouTube-Robo--EV-FF0000?style=flat-square&amp;logo=youtube&amp;logoColor=white" alt="YouTube Channel"></a>
   <a href="https://www.pixmoving.com/"><img src="https://img.shields.io/badge/https://-PIXMOVING-FFFC00?style=flat-square" alt="Website"></a>
 </p>
 
