@@ -1,4 +1,3 @@
-![rtm-318](https://github.com/user-attachments/assets/a0753c42-4056-4839-a5c7-f45a920d897a)
 
 
 # Design
@@ -10,5 +9,6 @@ This section offers an in-depth exploration of the aesthetic and functional face
 - **Parametric Design**: A focus on parametric design techniques using tools like Rhino and Grasshopper, or programming-based methods, to streamline the design workflow and enhance creative outcomes.
 
 &nbsp;
+![rtm-318](https://github.com/user-attachments/assets/a0753c42-4056-4839-a5c7-f45a920d897a)
 ![design-30](https://github.com/user-attachments/assets/f8c17fc8-da01-4f02-8fcc-dedd0dc5f246)
 ![Dingtalk_20240727144318](https://github.com/user-attachments/assets/c725a26e-4b02-4aab-8e8d-cb2d1c1af079)
