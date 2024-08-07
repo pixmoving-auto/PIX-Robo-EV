@@ -41,7 +41,7 @@ This section offers an in-depth exploration of the aesthetic and functional face
 - **Parametric Design**: A focus on parametric design techniques using tools like Rhino and Grasshopper, or programming-based methods, to streamline the design workflow and enhance creative outcomes.
 ## [Engineering](https://github.com/pixmoving-auto/NEV/blob/main/Engineering/README.md)
 This section is dedicated to providing technical insights and information related to the automotive engineering architecture.
-**Autonomous Driving**: This section provides an in-depth look at the latest developments in self-driving technologies and their incorporation into the vehicle's architecture.
+- **Autonomous Driving**: This section provides an in-depth look at the latest developments in self-driving technologies and their incorporation into the vehicle's architecture.
 - **Chassis Architecture**: Access detailed documentation on the design of the chassis, with a focus on its structure, performance attributes, and safety features.
 - **Body Architecture**: Find comprehensive insights into the design and engineering of the vehicle's body, including discussions on materials used and manufacturing processes.
 - **Electrical Architecture**: Gain a thorough understanding of the intricate electrical systems that drive modern vehicles, with detailed explanations and technical data.
