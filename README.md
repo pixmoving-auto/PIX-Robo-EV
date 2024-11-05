@@ -1,7 +1,3 @@
-![v2_5c4294c6314e42a8b1d3d7ba75f3baa3_img_png](https://github.com/user-attachments/assets/d2aeb985-ec9f-40b2-8221-831c26f23790)
-
-&nbsp;
-
 <h1 align="center">
   PIX Robo-EV
 </h1>
@@ -20,7 +16,8 @@
   <a href="https://speckle.guide/dev/"><img src="https://img.shields.io/badge/docs-speckle.guide-orange?style=flat-square&amp;logo=read-the-docs&amp;logoColor=white" alt="docs"></a> -->
 </p>
 
-&nbsp;
+![image](https://github.com/user-attachments/assets/f10f2dc7-f553-4dbd-851a-6617292683e9)
+
 ## 🤗 Welcome to the Robo-EV project repository! 
 
 - **Project Overview🚗**
@@ -30,7 +27,6 @@ The Robo-EV project encompasses a suite of three vehicle models: `Robo-EV`, `Rob
 - **Repo Purpose🛠️**
 Our cross-disciplinary team of experts – engineers, designers, and scientists – is united in the pursuit of innovation. This GitHub repository is  designed to serve as a dynamic platform for both designers and engineers. It provides real-time updates on the latest project developments and engineering insights. Additionally, it extends an open invitation to all passionate geek designers and engineers to contribute to the project. Fork the repository, collaborate with us, and help drive innovation in this project.
 
-&nbsp;
 
 # Repository Structure
 Our repository is organized into three main sections, each focusing on a different aspect of the Robo-EV project:
