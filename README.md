@@ -37,12 +37,12 @@ This section offers an in-depth exploration of the aesthetic and functional face
 - **Parametric Design**: A focus on parametric design techniques using tools like Rhino and Grasshopper, or programming-based methods, to streamline the design workflow and enhance creative outcomes.
 ## [Engineering](https://github.com/pixmoving-auto/NEV/blob/main/Engineering/README.md)
 This section is dedicated to providing technical insights and information related to the automotive engineering architecture.
-| Section                            | Description                                                                               | Status                                                                                                                                              |
+| Section                            | Description                                                                               | Repo                                                                                                                                              |
 | ------------------------------------ | ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Autonomous Driving                 | Latest developments in self-driving technologies, incorporation into vehicle architecture | Refer to [Autoware](https://github.com/pixmoving-moveit/Autoware.git) to learn about the development of the Robo-EV's autonomous driving.              |
 | Chassis Architecture               | Chassis design details: structure, performance, safety features                           | Coming Soon                                                                                                                                         |
 | Body Architecture                  | Vehicle body design and engineering: materials, manufacturing processes                   | Coming Soon                                                                                                                                         |
-| Electrical Architecture            | Intricate electrical systems of modern vehicles: explanations, technical data             | Coming Soon                                                                                                                                         |
+| Electrical Architecture            | Intricate electrical systems of modern vehicles: explanations, technical data             | Refer to [Electrical Architecture](https://github.com/pixmoving-auto/Robo-EV-Electrical-Architecture/blob/main/README.md) to gain insights into the design and operation of the vehicle's electrical infrastructure.                                                                                                                                         |
 | Vehicle Control Unit               | Central control unit overview, coordinating vehicle operations                            | Coming Soon                                                                                                                                         |
 | Human-Machine Interaction          | Interfaces and technologies for driver-vehicle interaction                                | Refer to [AI Agent](https://github.com/pixmoving-auto/AI-Agent.git) to learn about the progress of the intelligent cockpit development of the Robo-EV. |
 | Network Communication Architecture | Network systems for data communication between vehicle components                         | Coming Soon                                                                                                                                         |
@@ -57,6 +57,7 @@ We’re excited for you to browse the repo, contribute your insights, and help d
 
 ## Pinned
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pixmoving-moveit&repo=Autoware&bg_color=ffffff)](https://github.com/pixmoving-moveit/Autoware)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pixmoving-auto&repo=Robo-EV-Electrical-Architecture&bg_color=ffffff)](https://github.com/pixmoving-auto/Robo-EV-Electrical-Architecture.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pixmoving-auto&repo=AI-Agent&bg_color=ffffff)](https://github.com/pixmoving-auto/AI-Agent.git)
 
 # Community & Contributions
